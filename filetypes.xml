@@ -1,8 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping pattern="Consumer" type="Scala" />
-      <mapping pattern="Producer" type="Scala" />
-    </extensionMap>
-  </component>
-</application>
